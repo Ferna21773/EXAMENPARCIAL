@@ -21,7 +21,7 @@ import com.uisrael.examenparcial.presentacion.mapeadores.IAlmacenDtoMapper;
 import jakarta.validation.Valid;
 
 @RestController
-@RequestMapping("/api/insumo")
+@RequestMapping("/api/almacen")
 public class AlmacenControlador {
 	
 	
